@@ -1,12 +1,12 @@
 #### COMPONENTS USED
 
 ```
-payment: stripe,
+payment: stripe
 ```
 ```
-login/signup: Auth0,
+login/signup: Auth0
 ```
 ```
-API: https://course-api.com/react-store-products,
+API: https://course-api.com/react-store-products
 ```
 
